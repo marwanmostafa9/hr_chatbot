@@ -1,0 +1,9 @@
+dotenv
+langchain
+langchain_core
+langchain_groq
+langgraph
+langgraph-cli[inmem]
+streamlit
+langchain-community
+pypdf

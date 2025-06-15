@@ -1,0 +1,12 @@
+{
+    "dependencies": [
+      "."
+    ],
+    "graphs": {
+      "chatbot": "graph:compiled_graph"
+    },
+    "env": ".env",
+    "langsmith": {
+      "enabled": false
+    }
+}

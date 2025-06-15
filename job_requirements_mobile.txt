@@ -1,0 +1,15 @@
+1- Bachelor’s degree in Computer Science or related field.
+2- 6+ years of professional Android development experience.
+3- Proficiency in Kotlin and Java.
+4- Experience with Jetpack Compose and Jetpack libraries.
+5- Strong understanding of Dependency Injection (DI) frameworks.
+6- Proven ability to build products from the ground up in a fast-paced startup environment.
+7- In-depth knowledge of Android development, including memory management, concurrency, and multithreading.
+8- Proficiency in using version control systems, particularly Git.
+9- Strong collaboration skills and a team-oriented mindset.
+10- Exceptional problem-solving abilities and proactive approach to challenges.
+11- Experience with analytics and crash reporting tools like Firebase Analytics and Crashlytics.
+12- Experience with reactive programming (RxJava, RxKotlin, Flows, etc.).
+13- Outstanding written and verbal communication skills
+14- In-depth understanding of the entire mobile development life cycle, including familiarity with mobile industry trends, testing paradigms and architectures.
+15- Expertise in interactive application development on the Android platform, with a strong grasp of memory management, file I/O, network programming, concurrency, multithreading, and a successful track record of publishing apps on the Google Play Store.
