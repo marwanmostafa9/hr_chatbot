@@ -19,7 +19,7 @@ class SharedState(MessagesState):
 def agent(state: SharedState):
     system_msg = open("SYSTEM_MSG.txt","r").read()
     pdf_content = get_pdf_content()
-    job_requirements = open("D:\\LangChain\\Self Trial\\project_test1\\job_requirements_data.txt","r").read()
+    job_requirements = open("job_requirements_data.txt","r").read()
     # job_requirements = open("D:\\LangChain\\Self Trial\\project_test1\\job_requirements_mobile.txt","r").read()
 
     system_msg = system_msg.format(resume_content=pdf_content, job_requirements=job_requirements)
