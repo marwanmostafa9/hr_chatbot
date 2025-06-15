@@ -17,7 +17,7 @@ class SharedState(MessagesState):
 
 # Nodes
 def agent(state: SharedState):
-    system_msg = open("D:\\LangChain\\Self Trial\\project_test1\\SYSTEM_MSG.txt","r").read()
+    system_msg = open("SYSTEM_MSG.txt","r").read()
     pdf_content = get_pdf_content()
     job_requirements = open("D:\\LangChain\\Self Trial\\project_test1\\job_requirements_data.txt","r").read()
     # job_requirements = open("D:\\LangChain\\Self Trial\\project_test1\\job_requirements_mobile.txt","r").read()
